@@ -1,5 +1,5 @@
 pandas ==2.2.2
-scikit-learn==1.5.0
+scikit-learn==1.8.0
 requests
 python-dotenv
 numpy<2.0
