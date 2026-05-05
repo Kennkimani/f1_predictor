@@ -1,14 +1,8 @@
 pandas ==2.2.2
-numpy
 scikit-learn==1.5.0
 requests
 python-dotenv
-fastf1
 numpy<2.0
-seaborn
 joblib
 xgboost
-sqlalchemy
-psycopg2-binary
-python-dotenv
 streamlit
